@@ -1,24 +1,24 @@
 [submodule "third_party/requests-futures"]
 	path = third_party/requests-futures
-	url = https://gitee.com/Fengww2014/requests-futures
+	url = https://github.com/Fengww2014/requests-futures
 [submodule "third_party/ycmd"]
 	path = third_party/ycmd
-	url = https://gitee.com/Fengww2014/ycmd
+	url = https://github.com/Fengww2014/ycmd
 [submodule "third_party/requests_deps/idna"]
 	path = third_party/requests_deps/idna
-	url = https://gitee.com/Fengww2014/idna
+	url = https://github.com/Fengww2014/idna
 [submodule "third_party/requests_deps/certifi"]
 	path = third_party/requests_deps/certifi
-	url = https://gitee.com/Fengww2014/python-certifi
+	url = https://github.com/Fengww2014/python-certifi
 [submodule "third_party/requests_deps/chardet"]
 	path = third_party/requests_deps/chardet
-	url = https://gitee.com/Fengww2014/chardet
+	url = https://github.com/Fengww2014/chardet
 [submodule "third_party/requests_deps/urllib3"]
 	path = third_party/requests_deps/urllib3
-	url = https://gitee.com/Fengww2014/urllib3
+	url = https://github.com/Fengww2014/urllib3
 [submodule "third_party/requests_deps/requests"]
 	path = third_party/requests_deps/requests
-	url = https://gitee.com/Fengww2014/requests
+	url = https://github.com/Fengww2014/requests
 [submodule "third_party/python-future"]
 	path = third_party/python-future
-	url = https://gitee.com/Fengww2014/python-future
+	url = https://github.com/Fengww2014/python-future
